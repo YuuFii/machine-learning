@@ -19,4 +19,4 @@ Pengerjaan PPT:
 - Tinjauan Pustaka : Fathia Rahma Salsabila
 - Metodologi : Muhammad Rajendra Alkautsar Dikna
 - Hasil Evaluasi dan Diskusi : Diah Wahyu Fitrianingsih
-- Kesimpulan : 
+- Kesimpulan : Ervan Halimsurya
