@@ -5,3 +5,18 @@
 3. Muhammad Rajendra Alkautsar Dikna
 4. Ervan Halimsurya
 5. Fathia Rahma Salsabila
+
+# Pembagian Tugas
+
+Pengerjaan Laporan:
+- Latar Belakang, Rumusan Masalah, Manfaat, Kesimpulan: Ervan Halimsurya
+- Tinjauan Pustaka : Fathia Rahma Salsabila
+- Metodologi : Muhammad Rajendra Alkautsar Dikna
+- Hasil Evaluasi dan Diskusi : Nico Arya Divano, Diah Wahyu Fitrianingsih
+
+Pengerjaan PPT:
+- Latar Belakang, Rumusan Masalah, Manfaat: Nico
+- Tinjauan Pustaka : Fathia Rahma Salsabila
+- Metodologi : Muhammad Rajendra Alkautsar Dikna
+- Hasil Evaluasi dan Diskusi : Diah Wahyu Fitrianingsih
+- Kesimpulan : 
