@@ -15,8 +15,11 @@ Pengerjaan Laporan:
 - Hasil Evaluasi dan Diskusi : Nico Arya Divano, Diah Wahyu Fitrianingsih
 
 Pengerjaan PPT:
-- Latar Belakang, Rumusan Masalah, Manfaat: Nico
+- Latar Belakang, Rumusan Masalah, Manfaat: Nico Arya Divano
 - Tinjauan Pustaka : Fathia Rahma Salsabila
 - Metodologi : Muhammad Rajendra Alkautsar Dikna
 - Hasil Evaluasi dan Diskusi : Diah Wahyu Fitrianingsih
 - Kesimpulan : Ervan Halimsurya
+
+Pengerjaan dan Pengolahan Dataset:
+Diah Wahyu Fitrianingsih, Nico Arya Divano, Muhammad Rajendra Alkautsar Dikna
